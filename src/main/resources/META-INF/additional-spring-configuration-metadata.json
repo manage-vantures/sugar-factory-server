@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "management.health.ldap.enabled",
+  "type": "java.lang.String",
+  "description": "A description for 'management.health.ldap.enabled'"
+}]}
